@@ -26,3 +26,4 @@ spec:
 - (Services will be listed here as they are added)
 - parking-automation (python/fastapi)
 - reservation-service (python/fastapi)
+- user-service (python/fastapi)
